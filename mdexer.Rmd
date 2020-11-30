@@ -4,7 +4,7 @@ author: "Jin"
 date: '2020 11 30 '
 output:
   html_document:
-    df_print: paged
+    keep_md: true
 ---
 
 ```{r setup, include=FALSE}
